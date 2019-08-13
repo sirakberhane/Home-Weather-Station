@@ -1,2 +1,16 @@
-# Home-Weather-Station
+# Home Weather Station
 Using ESP8266 to get data like Temperature, Time, Humidity and display on a LCD screen.
+
+## Hardware Components
+* ESP8266 Module (Powered by micro USB, also outputs 3.3V of power to the entire circuit)
+* LCD Display (16X2, ~3.3V)
+* Breadboard 
+* Hook-up Wire
+* 
+
+## Software Used
+* Arduino IDE
+* OpenWeather API
+
+## Circuit 
+
