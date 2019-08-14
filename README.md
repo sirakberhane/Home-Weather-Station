@@ -11,7 +11,7 @@ Using ESP8266 to get data like Temperature, Time, Humidity and display on a LCD 
 
 ## Software Used
 * Arduino IDE
-* OpenWeather API
+* OpenWeatherMap API (https://openweathermap.org/api)
 
 ## Circuit 
 
