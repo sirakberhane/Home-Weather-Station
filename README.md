@@ -14,3 +14,8 @@ Using ESP8266 to get data like Temperature, Time, Humidity and display on a LCD 
 
 ## Circuit 
 
+### Breadboard View
+![Breadboard View](https://github.com/sirakberhane/Home-Weather-Station/blob/master/Breadboard-Weather.jpg)
+
+### Schematic View
+![Schematic View](https://github.com/sirakberhane/Home-Weather-Station/blob/master/Schematic-Weather.jpg)
