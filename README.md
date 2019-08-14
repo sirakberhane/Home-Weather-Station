@@ -1,4 +1,4 @@
-# Home Weather Station [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Home Weather Station [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/sirakberhane/Home-Weather-Station/blob/master/LICENSE)
 Using ESP8266 to get data like Temperature, Time, Humidity and display on a LCD screen.
 
 ## Hardware Components
