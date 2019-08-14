@@ -6,7 +6,8 @@ Using ESP8266 to get data like Temperature, Time, Humidity and display on a LCD 
 * LCD Display (16X2, ~3.3V)
 * Breadboard 
 * Hook-up Wire
-* 
+* (1) 1K OHM Resistor
+* (1) 470 OHM Resistor 
 
 ## Software Used
 * Arduino IDE
