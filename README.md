@@ -10,7 +10,7 @@ Using ESP8266 to get data like Temperature, Time, Humidity and display on a LCD 
 * (1) 470 OHM Resistor 
 
 ## Software Used
-* Arduino IDE
+* Arduino IDE (https://www.arduino.cc/en/main/software)
 * OpenWeatherMap API (https://openweathermap.org/api)
 
 ## Circuit 
