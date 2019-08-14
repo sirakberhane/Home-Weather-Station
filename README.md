@@ -1,4 +1,4 @@
-# Home Weather Station
+# Home Weather Station [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 Using ESP8266 to get data like Temperature, Time, Humidity and display on a LCD screen.
 
 ## Hardware Components
@@ -31,4 +31,3 @@ Using ESP8266 to get data like Temperature, Time, Humidity and display on a LCD 
 7. Line 110, change "API-ID-GOES-HERE" to your API ID you got from Step (1).
 8. Plug in your ESP8266 and upload the code. If you have any issues uploading the code, 
     make sure that your code is verified and you have the right COM enabled. 
-
